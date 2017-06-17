@@ -1,6 +1,6 @@
 <?php
 function depositfiles($dosya){
-$post		=	'login=kullaniciadin&password=sifren';
+$post		=	'login=conficker94&password=mert1994';
 $cookiefile	=	dirname(__FILE__).'/cookie.txt';
 
 		$postdata = array();

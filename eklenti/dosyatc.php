@@ -1,6 +1,6 @@
 <?php
 function dosyatc($dosya){
-$post		=	'kullanici=kullaniciadin&sifre=sifren';
+$post		=	'kullanici=conficker94&sifre=mert1994';
 $cookiefile	=	dirname(__FILE__).'/cookie.txt';
 
 		

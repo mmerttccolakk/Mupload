@@ -1,7 +1,0 @@
-<IfModule mod_rewrite.c>
-RewriteEngine on
-RewriteRule ^indir-(.*).html$ indir.php?id=$1 [NC]
-RewriteRule ^git-(.*).html$ git.php?id=$1 [NC]
-RewriteRule ^index.html$ index.php [L,NC]
-RewriteRule ^islem.html$ islem.php [L,NC]
-</IfModule>

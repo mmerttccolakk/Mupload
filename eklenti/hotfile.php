@@ -1,7 +1,7 @@
 <?php
 function hotfile($dosya){
 
-$post		=	'returnto=/&user=kullaniciadin&pass=sifren';
+$post		=	'returnto=/&user=conficker1994&pass=marsayolculuk';
 $cookiefile	=	dirname(__FILE__).'/cookie.txt';
 
 		$postdata = array();
